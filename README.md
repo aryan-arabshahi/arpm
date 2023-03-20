@@ -8,14 +8,6 @@ NOTE: I have used the PHP7.4 in the two first tasks instead of the latest versio
 
 NOTE: I have used the PHP7.4 in the two first tasks instead of the latest version because it was set as default. So, I did not use the latest PHP features.
 
-1- 
-https://onlinephp.io/c/6b87f
-
-2- 
-
-
-3- (I did not use the composer to generate the autoload because it was not in the task, So I required all the dependencies manually instead of generating the autoload)
-
 
 ## Table Of Contents:
 
