@@ -15,4 +15,4 @@ The list of the tasks:
 
 - **Task 1:** **[Using the toString magic function](https://onlinephp.io/c/6b87f)**
 - **Task 2:** **[Recursive array walk: (It takes a nested array and walk through that using recursion with a max depth value)](https://onlinephp.io/c/17c43)**
-- **Task 3:** **[The MVC project](https://github.com/aryan-arabshahi/arpm)**
+- **Task 3:** **[The MVC project](https://github.com/aryan-arabshahi/arpm/tree/main/arpm-mvc)**
